@@ -27,17 +27,17 @@ An interactive, all-in-one vulnerability scanner and reconnaissance tool built i
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ultimate-vulnerability-scanner.git
-   cd ultimate-vulnerability-scanner
-
+   https://github.com/abtalha/Project-_MrTalha/tree/main
+   
 2. **Install dependencies:**
 
 This tool requires Python 3.7+.
 
-bash
+```bash
 
 pip install -r requirements.txt
 ```
+```bash
 The main dependencies are:
 typer
 prompt_toolkit
@@ -48,8 +48,7 @@ beautifulsoup4
 Usage
 Run the tool with:
 
-bash
-```
+```bash
 python3 MrTalha.py
 ```
 You will be prompted to enter a target IP address or domain name. After that, you enter an interactive shell where you can run commands:
@@ -68,7 +67,7 @@ You will be prompted to enter a target IP address or domain name. After that, yo
 | `help`     | Show help message                               |
 | `exit`     | Exit the shell                                  |
 Example:
-```
+```bash
 
 MrTalha> nmap
 MrTalha> vuln
