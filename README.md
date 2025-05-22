@@ -70,10 +70,10 @@ You will be prompted to enter a target IP address or domain name. After that, yo
 Example:
 ```
 
-pentestgpt> nmap
-pentestgpt> vuln
-pentestgpt> all
-pentestgpt> exit
+MrTalha> nmap
+MrTalha> vuln
+MrTalha> all
+MrTalha> exit
 ```
 
 
